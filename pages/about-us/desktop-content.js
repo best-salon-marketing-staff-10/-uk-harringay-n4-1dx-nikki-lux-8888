@@ -15,9 +15,9 @@ import { imageAlt } from '/pages/core/info';
 
 
 
-export default function DesktopContent(){
-    
-    return(
+export default function DesktopContent() {
+
+    return (
         <>
             <div className="desktop-about-us">
                 <div>
@@ -37,7 +37,7 @@ export default function DesktopContent(){
                                 <img className="d-block w-100" alt={imageAlt.desktopAboutUsImage3Alt} src={images.desktopAboutUsImage3} />
                             </div>
                         </Carousel.Item>
-                    </Carousel> 
+                    </Carousel>
                 </div>
                 <div className="desktop-about-us-our-story">
                     <OurStory />
@@ -45,7 +45,7 @@ export default function DesktopContent(){
                 <div className="button">
                     <Button2 />
                 </div>
-                
+
                 <div className="desktop-about-us-dong-vien">
                     <div className="desktop-about-us-dong-vien-block-1">
                         <div className="desktop-about-us-dong-vien-text">
@@ -71,11 +71,11 @@ export default function DesktopContent(){
                             <img alt={imageAlt.desktopAboutUsDongVienImage3Alt} src={images.desktopAboutUsDongVienImage3} />
                         </div>
                     </div>
-                <div>
-                       
+                    <div>
+
                     </div>
                     <div className="time-schedule">
-                            <TimeSchedule />
+                        <TimeSchedule />
                     </div>
                 </div>
             </div>

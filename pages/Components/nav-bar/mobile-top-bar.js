@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { menu } from '/pages/core/info';
 import { processedInfo } from '/pages/core/info';
 
-export default function MobileTopBar(){
+export default function MobileTopBar() {
 
     return <>
         <div className="top-bar">
