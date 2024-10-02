@@ -116,7 +116,7 @@ const changedInfo = {
   businessWebsite: "https://nikkilux8888.web.app",
 
   linkBookingMap: "",
-  linkBookingApp: "https://bit.ly/3AprPMX",
+  linkBookingApp: "https://joybookings.com/nikkilux8888/booking",
   linkToMap: "https://maps.app.goo.gl/QWyjt2F8CFZjM7GV8",
 
 
